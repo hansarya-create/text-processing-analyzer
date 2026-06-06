@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>🧠 Text PreProcessing Analyzer</h1>
+      <h1>🧠 Text Processing Analyzer</h1>
 
       <textarea
         className="textbox"
