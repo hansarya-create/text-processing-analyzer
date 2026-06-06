@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -76,3 +77,13 @@ Team Members:
 Thippani Hansarya
 Rangareddy Jashwitha 
 >>>>>>> 87dbb761bc0efca1bcd2c008a00d0a1b72215fb9
+=======
+# Text Processing Analyzer
+
+## Team Members
+- Hansarya Varma
+- Rangareddy Jashwitha
+
+A React-based text analysis project.
+ 
+>>>>>>> cf2b35ab37439c489a76d2fd3ec74e317b6f028c
